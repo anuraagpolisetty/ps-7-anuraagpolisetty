@@ -1,0 +1,12 @@
+name,description,link
+TV Show Graph Ratings,"This is a project I made for my INFO 340 class on Client-Side Web Development. I got the idea through all the TV shows I watched over the summer and was hungry for more. However, I found that looking for the ideal show was harder than expected. Going through IMDB ratings for each show and every season I found to be too tedious. I wanted to create an app that consolidates all the ratings and graphs the show's quality over time. Therefore, I created this webpage using HTML, CSS, and Javascript.
+
+",https://info340d-au18.github.io/project-anuraagpolisetty/index.html
+Github,"This is a collection of all my previous projects that I have created and uploaded to my Github site online. It consists of class exercises from previous courses such as INFO 201 and CSE 154. It also has some work that I did in Python during my internship at Mist Systems in the summer of 2018. In these projects I worked with APIs, wifi connectivity, device configuration settings, and Kafka servers. However, there's still a lot more for me to learn and a lot of ways for me to grow! ",https://github.com/anuraagpolisetty
+Analysis of Shootings in the US,"This is a project I created with my group in my previous INFO 201 class. Using datasets from FiveThirtyEight and processing the data with R and hosting with Shiny, we created an analysis of shootings and police killings in the US. We were aware that it contains very sensitive information that can be politically or socially polarizing for many people. When creating this website, my goal was not to drive a political agenda. but rather to offer unbiased information for people to draw their own opinions from. As much information as possible was used to allow no room for error. My team and I hoped to shed more light on what was happening in the USA today and help discover insights through data rather than politics.",https://gcai47.shinyapps.io/final-project-air-force-1/
+,,
+,,
+,,
+,,
+,,
+,,
